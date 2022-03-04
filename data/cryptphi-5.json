@@ -1,0 +1,9 @@
+{
+  "contest": 96,
+  "handle": "cryptphi",
+  "address": "0x876133657F5356e376B7ae27d251444727cE9488",
+  "risk": "2",
+  "title": "Missing zero address check in collectProtocolFee() may lead to loss of Protocol Fee",
+  "issueId": 5,
+  "issueUrl": "https://github.com/code-423n4/2022-03-timeswap-findings/issues/5"
+}
