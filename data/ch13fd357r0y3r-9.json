@@ -1,0 +1,9 @@
+{
+  "contest": 96,
+  "handle": "ch13fd357r0y3r",
+  "address": "0xBA23dfd7cCCD3587A1b8909dd5BcCfD92aCeAE6f",
+  "risk": "2",
+  "title": "NPM Dependency confusion. Unclaimed NPM Package and Scope/Org",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/2022-03-timeswap-findings/issues/9"
+}
