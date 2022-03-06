@@ -1,0 +1,9 @@
+{
+  "contest": 96,
+  "handle": "IllIllI",
+  "address": "0xCC6B0a35481EA40b60780B7c0294c6c29061038f",
+  "risk": "2",
+  "title": "Borrowers cannot get correct collateral if using `Convenience` functions and someone else has paid some debt ",
+  "issueId": 12,
+  "issueUrl": "https://github.com/code-423n4/2022-03-timeswap-findings/issues/12"
+}
