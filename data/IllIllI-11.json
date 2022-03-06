@@ -1,0 +1,9 @@
+{
+  "contest": 96,
+  "handle": "IllIllI",
+  "address": "0xCC6B0a35481EA40b60780B7c0294c6c29061038f",
+  "risk": "2",
+  "title": "The `pay()` function can still be DOSed",
+  "issueId": 11,
+  "issueUrl": "https://github.com/code-423n4/2022-03-timeswap-findings/issues/11"
+}
