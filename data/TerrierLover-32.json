@@ -1,0 +1,9 @@
+{
+  "contest": 96,
+  "handle": "TerrierLover",
+  "address": "0xc9535b697E0B430798443c6CA5A8Be257aD368b0",
+  "risk": "2",
+  "title": "Underflown variable in ``borrowGivenDebtETHCollateral`` function",
+  "issueId": 32,
+  "issueUrl": "https://github.com/code-423n4/2022-03-timeswap-findings/issues/32"
+}
