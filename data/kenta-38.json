@@ -2,7 +2,7 @@
   "contest": 96,
   "handle": "kenta",
   "address": "0xE85D65E3927451cCC130457e75bF83ee1a5B85c6",
-  "risk": "1",
+  "risk": "Q",
   "title": "QA Report",
   "issueId": 38,
   "issueUrl": "https://github.com/code-423n4/2022-03-timeswap-findings/issues/38"

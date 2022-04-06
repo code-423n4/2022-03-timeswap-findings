@@ -2,7 +2,7 @@
   "contest": 96,
   "handle": "WatchPug",
   "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
-  "risk": "1",
+  "risk": "Q",
   "title": "QA Report",
   "issueId": 19,
   "issueUrl": "https://github.com/code-423n4/2022-03-timeswap-findings/issues/19"

@@ -2,7 +2,7 @@
   "contest": 96,
   "handle": "0x1f8b",
   "address": "0x8DB32d6ECCe6b7a3DBEbFAEbE9B329022EC86aCF",
-  "risk": "1",
+  "risk": "Q",
   "title": "QA Report",
   "issueId": 7,
   "issueUrl": "https://github.com/code-423n4/2022-03-timeswap-findings/issues/7"
